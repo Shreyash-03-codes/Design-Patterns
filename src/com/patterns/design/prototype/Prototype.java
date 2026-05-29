@@ -1,4 +1,5 @@
 package com.patterns.design.prototype;
 
-public class Prototype {
+public interface Prototype<T> {
+    T cloneNetworkConnection();
 }

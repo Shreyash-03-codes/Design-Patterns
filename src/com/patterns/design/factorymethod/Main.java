@@ -1,4 +1,8 @@
-package com.patterns.design.factory;
+package com.patterns.design.factorymethod;
+
+import com.patterns.design.factorymethod.employee.Employee;
+import com.patterns.design.factorymethod.enums.EmployeeType;
+import com.patterns.design.factorymethod.factory.EmployeeFactory;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,5 +1,5 @@
-package com.patterns.design.abstractfactory;
+package com.patterns.design.abstractfactory.checkbox;
 
-public interface CheckBox {
+public interface Checkbox {
     void check();
 }

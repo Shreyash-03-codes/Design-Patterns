@@ -1,6 +1,8 @@
-package com.patterns.design.factorymethod;
+package com.patterns.design.factorymethod.developer;
 
-public class FrontEndDeveloper implements Employee{
+import com.patterns.design.factorymethod.employee.Employee;
+
+public class FrontEndDeveloper implements Employee {
 
     @Override
     public double getSalary() {
